@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "87756060357",
+    "firebase_url": "https://login-e486d-default-rtdb.firebaseio.com",
+    "project_id": "login-e486d",
+    "storage_bucket": "login-e486d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87756060357:android:f7253cf50e4d5b77b8a2ac",
+        "android_client_info": {
+          "package_name": "com.mycompany.loginphone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87756060357-bpbqdiv9qf29k3i96orutg8ig2vl6lci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwjGxw8R3MzT9lIonBjn4X0els4jtZDMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87756060357-bpbqdiv9qf29k3i96orutg8ig2vl6lci.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "87756060357-ip93vg1o5kov6fk4egae27qmtvsegk6f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.loginphone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87756060357:android:a54738b8c191d144b8a2ac",
+        "android_client_info": {
+          "package_name": "com.mycompany.phonelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87756060357-bpbqdiv9qf29k3i96orutg8ig2vl6lci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwjGxw8R3MzT9lIonBjn4X0els4jtZDMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87756060357-bpbqdiv9qf29k3i96orutg8ig2vl6lci.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "87756060357-ip93vg1o5kov6fk4egae27qmtvsegk6f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.loginphone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
