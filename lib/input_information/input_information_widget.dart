@@ -51,6 +51,8 @@ class _InputInformationWidgetState extends State<InputInformationWidget> {
     _model.textController5 ??=
         TextEditingController(text: dateTimeFormat('yMd', getCurrentTimestamp));
     _model.textFieldFocusNode5 ??= FocusNode();
+
+    WidgetsBinding.instance.addPostFrameCallback((_) => setState(() {}));
   }
 
   @override

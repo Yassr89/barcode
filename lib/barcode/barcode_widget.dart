@@ -26,6 +26,8 @@ class _BarcodeWidgetState extends State<BarcodeWidget> {
   void initState() {
     super.initState();
     _model = createModel(context, () => BarcodeModel());
+
+    WidgetsBinding.instance.addPostFrameCallback((_) => setState(() {}));
   }
 
   @override
